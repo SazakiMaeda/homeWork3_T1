@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.sazakimaeda.h2.configuration.WeylandYutaniAutoConfiguration
